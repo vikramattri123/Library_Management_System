@@ -10,15 +10,15 @@ TEST_SSRC = test
 
 BUILD = build
 
-SRC=main.c \
-src/addBook.c \
-src/DisplayMessage.c \
-src/MenuPage.c \
-src/topMessage.c \
-src/viewBook.c \
-src/welcome.c \
+SRC=main.c\
+src/addBook.c\
+src/DisplayMessage.c\
+src/MenuPage.c\
+src/topMessage.c\
+src/viewBook.c\
+src/welcome.c\
 
-TEST_SRC = unity/unity.c \
+TEST_SRC = unity/unity.c\
 test/test.c
 
 
