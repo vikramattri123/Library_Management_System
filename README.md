@@ -15,3 +15,5 @@ SWOT Analysis
 
 
 [![Check - Git Inspector](https://github.com/vikramattri123/Library_Management_System/actions/workflows/gitinspector.yml/badge.svg?branch=main)](https://github.com/vikramattri123/Library_Management_System/actions/workflows/gitinspector.yml)
+
+[![cppcheck](https://github.com/vikramattri123/Library_Management_System/actions/workflows/cppcheck.yml/badge.svg?branch=main)](https://github.com/vikramattri123/Library_Management_System/actions/workflows/cppcheck.yml)
