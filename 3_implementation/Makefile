@@ -10,7 +10,7 @@ TEST_SSRC = test
 
 BUILD = build
 
-SRC=main.c\
+SRC=Program_Prog.c\
 src/addBook.c\
 src/DisplayMessage.c\
 src/MenuPage.c\
