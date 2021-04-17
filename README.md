@@ -20,7 +20,7 @@ Contributors List and Summary
 
 SF.Id |Name | Features	| Issuess Raised | 	Issues Resolved	 | No of Test Cases	| Test Case Pass
 ------|----- | -------|--------------|----- | -------|--------------
-265172|Vikram Singh	| add Book, View Book,Search  etc.|	3	| 3	| 1	| 1
+265172 |Vikram Singh	| add Book, View Book,Search  etc |	3	| 3	| 2	| 2
 
 
 
